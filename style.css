@@ -67,7 +67,7 @@ section .bg {
   z-index: 5;
 }
 
-.home-video iframes{
+.home-video iframe{
   max-width: 90%;
 }
 
